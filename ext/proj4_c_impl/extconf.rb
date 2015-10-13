@@ -35,7 +35,7 @@ else
      '/opt/proj/lib',
      '/opt/proj4/lib',
      '/opt/lib',
-     '/Library/Frameworks/PROJ.framework/unix/lib',
+     # '/Library/Frameworks/PROJ.framework/unix/lib',
      ::RbConfig::CONFIG['libdir'],
      '/usr/lib',
      '/usr/lib64',
