@@ -21,7 +21,7 @@ else
      '/opt/proj/include',
      '/opt/proj4/include',
      '/opt/include',
-     '/Library/Frameworks/PROJ.framework/unix/include',
+     # '/Library/Frameworks/PROJ.framework/unix/include',
      ::RbConfig::CONFIG['includedir'],
      '/usr/include',
     ]
